@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ScjP89+0hBJTr1YvnamT7c1MZJ+Yvt+y7qi0J39O6eU=",
+  "Source": "TrainReservationWebAPI",
+  "BasePath": "_content/TrainReservationWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

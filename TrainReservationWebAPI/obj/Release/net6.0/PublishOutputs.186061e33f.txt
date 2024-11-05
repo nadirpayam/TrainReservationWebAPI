@@ -1,0 +1,11 @@
+C:\Users\nadirpayam\Desktop\MyWorks\TrainReservationWebAPI\TrainReservationWebAPI\obj\Release\net6.0\PubTmp\Out\TrainReservationWebAPI.exe
+C:\Users\nadirpayam\Desktop\MyWorks\TrainReservationWebAPI\TrainReservationWebAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\nadirpayam\Desktop\MyWorks\TrainReservationWebAPI\TrainReservationWebAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\nadirpayam\Desktop\MyWorks\TrainReservationWebAPI\TrainReservationWebAPI\obj\Release\net6.0\PubTmp\Out\TrainReservationWebAPI.dll
+C:\Users\nadirpayam\Desktop\MyWorks\TrainReservationWebAPI\TrainReservationWebAPI\obj\Release\net6.0\PubTmp\Out\TrainReservationWebAPI.deps.json
+C:\Users\nadirpayam\Desktop\MyWorks\TrainReservationWebAPI\TrainReservationWebAPI\obj\Release\net6.0\PubTmp\Out\TrainReservationWebAPI.runtimeconfig.json
+C:\Users\nadirpayam\Desktop\MyWorks\TrainReservationWebAPI\TrainReservationWebAPI\obj\Release\net6.0\PubTmp\Out\TrainReservationWebAPI.pdb
+C:\Users\nadirpayam\Desktop\MyWorks\TrainReservationWebAPI\TrainReservationWebAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\nadirpayam\Desktop\MyWorks\TrainReservationWebAPI\TrainReservationWebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nadirpayam\Desktop\MyWorks\TrainReservationWebAPI\TrainReservationWebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nadirpayam\Desktop\MyWorks\TrainReservationWebAPI\TrainReservationWebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
